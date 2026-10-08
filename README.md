@@ -1,22 +1,106 @@
-<h1 align="center">Hi 👋, I'm Ushani De silva</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<!-- ========== BANNER ========== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=220&section=header&text=Ushani%20De%20Silva&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Sri%20Lanka&descSize=20&descAlignY=60&animation=fadeIn" alt="Ushani De Silva banner" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ushani-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ushani-dev" /> </p>
+<!-- ========== TYPING INTRO ========== -->
+<div align="center">
+  <a href="https://github.com/ushani-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ushani+De+Silva;A+passionate+Full-Stack+Developer;Building+clean%2C+scalable+web+apps+%F0%9F%9A%80" alt="Typing intro" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ushani-dev" alt="ushani-dev" /></a> </p>
+<br/>
 
-- 📫 How to reach me **ushanidewmini@gmail.com**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ushani-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ushani-dev?label=Followers&style=for-the-badge&color=7b2ff7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-0e75b6?style=for-the-badge" alt="Location" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ushani de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushani de silva" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<!-- ========== CONNECT ========== -->
+<div align="center">
+  <a href="mailto:ushanidewmini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ushani-de-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ushani-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ushani-dev&show_icons=true&locale=en&layout=compact" alt="ushani-dev" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ushani-dev&show_icons=true&locale=en" alt="ushani-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ushani-dev&" alt="ushani-dev" /></p>
+<!-- ========== ABOUT ========== -->
+<h2 align="center">👩‍💻 About Me</h2>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🌱 **Focus** | Full-stack web development |
+| 🛠️ **Stack** | Java · Spring · PHP · Laravel · Node.js · React |
+| ☁️ **Cloud & DevOps** | AWS · Azure · Docker · Nginx · Linux |
+| 📫 **Reach me** | [ushanidewmini@gmail.com](mailto:ushanidewmini@gmail.com) |
+
+</div>
+
+---
+
+<!-- ========== TECH STACK ========== -->
+<h2 align="center">🧰 Languages & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,php,html,css&perline=6" alt="Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,laravel,bootstrap&perline=5" alt="Frameworks" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql,rabbitmq&perline=5" alt="Databases" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,git&perline=6" alt="Cloud and DevOps" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&perline=2" alt="Design" />
+</div>
+
+<br/>
+
+---
+
+<!-- ========== STATS ========== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ushani-dev&show_icons=true&hide_border=true&theme=tokyonight&locale=en" alt="GitHub stats" />
+      </td>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ushani-dev&layout=compact&hide_border=true&theme=tokyonight&locale=en" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushani-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ushani-dev&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  </a>
+</div>
+
+<!-- ========== FOOTER ========== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=120&section=footer" alt="Footer" />
+</div>
